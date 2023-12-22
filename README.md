@@ -10,8 +10,7 @@ O foco dessa aplicação de página única (SPA) tem o objetivo principal o apre
 ## Como usar
 
 1. **Instalação**: Primeiro, instale todas as dependências do projeto com `npm install`.
-2. **Desenvolvimento**: Para iniciar o servidor de desenvolvimento, use `gulp`. Isso iniciará o servidor, observará as mudanças no código e executará todas as tarefas novamente, enviando para produção e recarregando o servidor automaticamente.
-3. **Build**: Para criar uma versão de produção do seu projeto, use `gulp build`. Isso criará uma pasta de build com todos os seus códigos de desenvolvimento prontos para produção.
+2. **Desenvolvimento**: Para iniciar o servidor de desenvolvimento, use `gulp`. Isso criará uma versão de produção do projeto, iniciará o servidor, observará as mudanças no código e executará todas as tarefas novamente, enviando para produção e recarregando o servidor automaticamente.
 
 ## Tarefas do Gulp
 
