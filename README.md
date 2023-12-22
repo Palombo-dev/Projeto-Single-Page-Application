@@ -14,15 +14,18 @@ O foco dessa aplicação de página única (SPA) tem o objetivo principal o apre
 
 ## Tarefas do Gulp
 
-Aqui estão algumas das tarefas do Gulp que utilizamos:
+Aqui estão só algumas das tarefas do Gulp que serão executadas:
 
+- `htmlmin()`: Usamos isso para minificar o HTML, retirando espaços em brancos, comentarios e renomeando variaveis, deixando tudo em uma unica linha.
+- `sass()`: Usamos isso para compilar arquivos SASS em CSS.
+- `concat()`: Usamos isso para concatenar vários arquivos.
+- `babel()`: Usamos o babel para transformar JavaScript moderno em uma versão que possa ser rodada na maioria dos Browsers atuais.
+- `uglify()`: Usamos isso para minificar o JavaScript, retirando espaços em brancos, comentarios e renomeando variaveis, deixando tudo em uma unica linha.
+- `uglifycss()`: Usamos isso para minificar o CSS, retirando espaços em brancos, comentarios e renomeando variaveis, deixando tudo em uma unica linha.
+- `gulp.src() e gulp.dest()`: Usamos isso para selecionar os arquivos de entrada e de saída para ás tarefas do gulp. 
 - `gulp.series()`: Usamos isso para executar tarefas em série.
 - `gulp.parallel()`: Usamos isso para executar tarefas em paralelo.
 - `gulp.watch()`: Usamos isso para observar as mudanças nos arquivos e executar tarefas automaticamente.
-
-## Contribuição
-
-Contribuições são bem-vindas! Por favor, leia o guia de contribuição antes de fazer qualquer alteração.
 
 ## Licença
 
