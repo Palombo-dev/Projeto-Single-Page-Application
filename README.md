@@ -1,6 +1,6 @@
 # Projeto SPA (Single Page Application)
 
-O foco dessa SPA tem o objetivo principal o aprendizado do Gulp para autimatizar várias tarefas de desenvolvimento
+O foco dessa SPA tem como objetivo principal o aprendizado do Gulp para autimatizar várias tarefas de desenvolvimento
 
 ## Recursos
 
